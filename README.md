@@ -10,7 +10,10 @@ For this project a Machine Learning Model is made using Support Vector Machine m
 
 
 ### Workflow- 
-- Load dataset
-- Data Preprocessing
-- Splitting data into Training and Test data
-- Support Vector Machine Classifier
+- Load dataset: ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+- Data Preprocessing: ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![numpy](	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+- Splitting data into Training and Test data: ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Support Vector Machine Classifier: A supervised machine learning algorithm capable of performing classification, regression and even outlier detection.
+
+
+### 
